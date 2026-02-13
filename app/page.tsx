@@ -2,8 +2,8 @@
 import { useEffect, useState, useRef } from "react";
 import { lines } from "./data";
 
-const QUESTION = "Password: Hello World";
-const CORRECT_ANSWER = "Hello World"; 
+const QUESTION = "“Ade mide means the crown has arrived in Yoruba, a language spoken in Nigeria. It symbolizes the arrival of something precious and significant, much like how you, Esther, are the crown that has arrived in my life, bringing joy and Pigeons to it.”";
+const CORRECT_ANSWER = "Ademi"; 
 
 
 function Home() {
